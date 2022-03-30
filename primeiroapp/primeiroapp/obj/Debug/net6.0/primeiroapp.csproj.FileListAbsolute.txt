@@ -1,0 +1,15 @@
+/Users/renan/projetos/csharp/primeiroapp/primeiroapp/bin/Debug/net6.0/primeiroapp
+/Users/renan/projetos/csharp/primeiroapp/primeiroapp/bin/Debug/net6.0/primeiroapp.deps.json
+/Users/renan/projetos/csharp/primeiroapp/primeiroapp/bin/Debug/net6.0/primeiroapp.runtimeconfig.json
+/Users/renan/projetos/csharp/primeiroapp/primeiroapp/bin/Debug/net6.0/primeiroapp.dll
+/Users/renan/projetos/csharp/primeiroapp/primeiroapp/bin/Debug/net6.0/primeiroapp.pdb
+/Users/renan/projetos/csharp/primeiroapp/primeiroapp/obj/Debug/net6.0/primeiroapp.csproj.AssemblyReference.cache
+/Users/renan/projetos/csharp/primeiroapp/primeiroapp/obj/Debug/net6.0/primeiroapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renan/projetos/csharp/primeiroapp/primeiroapp/obj/Debug/net6.0/primeiroapp.AssemblyInfoInputs.cache
+/Users/renan/projetos/csharp/primeiroapp/primeiroapp/obj/Debug/net6.0/primeiroapp.AssemblyInfo.cs
+/Users/renan/projetos/csharp/primeiroapp/primeiroapp/obj/Debug/net6.0/primeiroapp.csproj.CoreCompileInputs.cache
+/Users/renan/projetos/csharp/primeiroapp/primeiroapp/obj/Debug/net6.0/primeiroapp.dll
+/Users/renan/projetos/csharp/primeiroapp/primeiroapp/obj/Debug/net6.0/refint/primeiroapp.dll
+/Users/renan/projetos/csharp/primeiroapp/primeiroapp/obj/Debug/net6.0/primeiroapp.pdb
+/Users/renan/projetos/csharp/primeiroapp/primeiroapp/obj/Debug/net6.0/primeiroapp.genruntimeconfig.cache
+/Users/renan/projetos/csharp/primeiroapp/primeiroapp/obj/Debug/net6.0/ref/primeiroapp.dll
